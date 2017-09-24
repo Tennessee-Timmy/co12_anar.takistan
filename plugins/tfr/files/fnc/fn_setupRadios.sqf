@@ -134,7 +134,7 @@ private _lrData = [
 ];
 (group player) setVariable ['tf_lr_frequency',_lrData];
 
-// Wait for game to start and lower voice for non leaders
+// Wait for game to start and lower voice
 _isLeader spawn {
 	sleep 1;
 	if (_this) then {
@@ -147,7 +147,7 @@ _isLeader spawn {
 // If radios are already initialized, also reset the settings on current radios
 if (time > 5) then {
 	if (player call respawn_fnc_deadCheck) exitWith {};
-	[player, false] call TFAR_fnc_forceSpectator;
+	{[player, false] call TFAR_fnc_forceSpectator;} call CBA_fnc_directCall;
 
 	if (call TFAR_fnc_haveSWRadio) then {
 		[(call TFAR_fnc_activeSwRadio), _srData] call TFAR_fnc_setSwSettings;

@@ -126,7 +126,7 @@ ace_rearm_supply = 0;
 ace_map_mapShake = true;
 ace_map_mapShowCursorCoordinates = false;
 ace_map_mapIllumination = true;
-ace_map_mapLimitZoom = true;
+ace_map_mapLimitZoom = false;
 
 // wind / ballistics
 ace_winddeflection_enabled = true;

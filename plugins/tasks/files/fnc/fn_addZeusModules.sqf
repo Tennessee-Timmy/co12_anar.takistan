@@ -229,7 +229,7 @@ if !(isClass (configFile >> "CfgPatches" >> "achilles_modules_f_achilles")) exit
 	};
 }] call Ares_fnc_RegisterCustomModule;
 
-// Add task
+// description update
 ["* Mission Tasks", "Add Task",
 {
 	_this spawn {

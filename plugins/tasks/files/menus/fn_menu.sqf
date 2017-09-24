@@ -146,7 +146,7 @@ _textBox = [format["blu_task_%1",ceil random 100],[0.5,13,10.5,1],7001] call men
 _textBox ctrlSetTooltip "A unique variable to reference the task with";
 
 _textBox2 = ["west",[0.5,14.5,10.5,1],7002] call menus_fnc_addTextBox;
-_textBox2 ctrlSetTooltip "Target side, unit or group. ex. resistance,[west,east]";
+_textBox2 ctrlSetTooltip "Target side, unit or group.";
 
 _textBox3 = [('["Grab the loot from enemies!","GRAB BOOTY"]'),[0.5,16,10.5,1],7003]call menus_fnc_addTextBox;
 _textBox3 ctrlSetTooltip "ARRAY, [<DESCRIPTION>,<NAME>]";
@@ -177,7 +177,7 @@ private _tasksButton1 = ["Add task",[6,17.5,5,1],
 		private _target = ctrlText ((findDisplay 304000) displayCtrl 7002);
 		private _targetCheck = call compile _target;
 
-		if (isNil '_targetCheck') exitWith {
+		if (isNil '_targetCheck') exitWith{
 			systemChat 'Adding new task failed. Invalid target.'
 		};
 
