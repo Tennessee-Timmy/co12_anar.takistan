@@ -1,24 +1,24 @@
-# co12_anar
+CO12 - Anar Warriors
+<p align="center">
+    <img src="https://i.imgur.com/L2bmV36.jpg" width="480">
+</p>
 Anar locals will fight 'til last breath!
 
-Requirements:
+<sup><strong>Requirements:</sup></strong>
+<a href="http://steamcommunity.com/workshop/filedetails/?id=1118302100">RGD ACE 3</a>	
 
-	RGD ACE 3 - http://steamcommunity.com/workshop/filedetails/?id=1118302100
-	
-	CBA - http://steamcommunity.com/workshop/filedetails/?id=4508149
-	
-	CUP Terrains - Core	- http://steamcommunity.com/workshop/filedetails/?id=583496184
-	
-	CUP Terrains - Maps - http://steamcommunity.com/workshop/filedetails/?id=583544987
-	
-	Project OPFOR - http://steamcommunity.com/sharedfiles/filedetails/?id=1117945097
-	
-	RHSUSAF - http://steamcommunity.com/workshop/filedetails/?id=843577117
-	
-	NIArms Core - http://steamcommunity.com/sharedfiles/filedetails/?id=1117945097
-	
-	NIArms AK Rifles - http://steamcommunity.com/workshop/filedetails/?id=667352839
-	
-	Task Force Arrowhead Radio (BETA!!!) - http://steamcommunity.com/workshop/filedetails/?id=894678801
-	
-	
+<a href="http://steamcommunity.com/workshop/filedetails/?id=4508149">CBA</a>
+
+<a href="http://steamcommunity.com/workshop/filedetails/?id=583496184">CUP Terrains - Core</a>
+
+<a href="http://steamcommunity.com/workshop/filedetails/?id=583544987">CUP Terrains - Maps</a>
+
+<a href="http://steamcommunity.com/workshop/filedetails/?id=1117945097">Project OPFOR</a>
+
+<a href="http://steamcommunity.com/workshop/filedetails/?id=843577117">RHSUSAF</a>
+
+<a href="http://steamcommunity.com/workshop/filedetails/?id=1117945097">NIArms Core</a>
+
+<a href="http://steamcommunity.com/workshop/filedetails/?id=667352839">NIArms AK Rifles</a>
+
+<a href="http://steamcommunity.com/workshop/filedetails/?id=894678801">Task Force Arrowhead Radio (BETA!!!)</a>
