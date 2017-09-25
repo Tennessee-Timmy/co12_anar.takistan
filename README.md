@@ -17,6 +17,8 @@ Anar locals will fight 'til last breath!<br/>
 
 - <a href="http://steamcommunity.com/workshop/filedetails/?id=1117945097">Project OPFOR</a>
 
+- <a href="http://steamcommunity.com/workshop/filedetails/?id=843425103">RHSAFRF</a>
+
 - <a href="http://steamcommunity.com/workshop/filedetails/?id=843577117">RHSUSAF</a>
 
 - <a href="http://steamcommunity.com/workshop/filedetails/?id=1117945097">NIArms Core</a>
