@@ -6,7 +6,7 @@
 
 Anar locals will fight 'til last breath!<br/>
 
-***Requirements:***<br/>
+**Requirements:**<br/>
 <a href="http://steamcommunity.com/workshop/filedetails/?id=1118302100">RGD ACE 3</a>	
 
 <a href="http://steamcommunity.com/workshop/filedetails/?id=4508149">CBA</a>
