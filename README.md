@@ -1,9 +1,9 @@
 
 <p align="center">
-    CO12 - Anar Warriors<br/>
     <img src="https://i.imgur.com/L2bmV36.jpg" width="480">
 </p>
 
+### CO12 - Anar Warriors<br/>
 Anar locals will fight 'til last breath!<br/>
 
 ## Requirements:<br/>
