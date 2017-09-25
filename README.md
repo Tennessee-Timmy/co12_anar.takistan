@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://i.imgur.com/L2bmV36.jpg" width="480">
+    <img src="https://i.imgur.com/L2bmV36.jpg" width="720">
 </p>
 
 ### CO12 - Anar Warriors<br/>
